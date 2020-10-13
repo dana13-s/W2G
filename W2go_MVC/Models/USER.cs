@@ -7,5 +7,6 @@ namespace W2go_MVC.Models
 {
     public class USER
     {
+        public int Id { get; set; }
     }
 }
